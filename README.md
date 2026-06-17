@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi i,m Muhammad Faisal:
 I'm a Software Developer passionate about building modern web and desktop applications. I work as a Full Stack Developer with experience in **VB.NET, React, Next.js, Node.js, and database-driven business applications**.
 
 
