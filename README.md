@@ -1,18 +1,265 @@
-# 💫 Hi i,m Muhammad Faisal:
-I'm a Software Developer passionate about building modern web and desktop applications. I work as a Full Stack Developer with experience in **VB.NET, React, Next.js, Node.js, and database-driven business applications**.
+# 💫 Hi, I'm Muhammad Faisal
 
+I'm a **Full Stack Software Engineer** passionate about building modern **SaaS platforms, ERP systems, POS solutions, inventory systems, installment management systems, and business automation applications**.
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/mflqp9) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mfpak1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mfpak1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mflqp9) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mfpak1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mfpak1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mflqp9@gmail.com) 
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mflqp9&theme=vue&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mflqp9&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mflqp9&theme=vue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+I have **6+ years of software development experience**, including enterprise desktop applications using **VB.NET + Microsoft SQL Server** and modern web applications using **React, Next.js, Node.js, PostgreSQL, Supabase, and MongoDB**.
 
 ---
-[![](https://komarev.com/ghpvc/?username=mflqp9&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mflqp9-portfolio.vercel.app/)
+[![KodeVision](https://img.shields.io/badge/KodeVision-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kodevision.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mflqp9)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mflqp9)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mfpak1)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mfpak1)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mfpak1)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@mfpak1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mflqp9@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwind_css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![Crystal Reports](https://img.shields.io/badge/SAP_Crystal_Reports-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe_photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![CorelDraw](https://img.shields.io/badge/CorelDraw-46A546?style=for-the-badge&logo=coreldraw&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 💰 Instalify SaaS  
+**Installment, Accounting, Inventory & Branch Management SaaS**
+
+🔗 https://instalify.app/
+
+![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+- Multi-business support  
+- Multi-branch management  
+- Installment tracking  
+- Accounting system  
+- Inventory management  
+- Customer accounts  
+- Reporting dashboard  
+- Role-based access control  
+
+---
+
+## 📦 Stockify / Distribution System  
+**Inventory & Distribution Management Platform**
+
+🔗 https://estockify.app/
+
+![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+- Product management  
+- Inventory tracking  
+- Sales management  
+- Stock reporting  
+- Business management dashboard  
+
+---
+
+## 👔 Tailor Management SaaS  
+**Tailor Shop Management & Workflow Automation Platform**
+
+🔗 https://tailor.kodevision.com/
+
+![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+- Order management  
+- Customer measurements  
+- Workflow automation  
+- Customer records  
+- Responsive dashboard  
+
+---
+
+## 🤝 TaskMate Social Platform  
+**Social Networking & Activity Sharing Platform**
+
+🔗 https://taskmate.social/
+
+- Social posting  
+- Activity sharing  
+- Community engagement  
+- User interaction system  
+
+---
+
+## 💵 Royal Asset Management  
+**ROSCA & Financial Management System**
+
+🔗 https://royalam.org/
+
+![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+- ROSCA management  
+- Member management  
+- Financial tracking  
+- Responsive UI  
+
+---
+
+## 🏢 KodeVision  
+**Software House Website**
+
+🔗 https://kodevision.com/
+
+- Company website  
+- Services showcase  
+- Product portfolio  
+- JSON-driven content structure  
+
+---
+
+## ⚖️ Waqar Law Chamber  
+**Professional Law Firm Website**
+
+🔗 https://www.waqarlaw.com/
+
+- Service-based website  
+- Responsive frontend  
+- Optimized UI components  
+
+---
+
+## 🛒 Revibe UAE E-Commerce  
+**E-Commerce UI Components**
+
+🔗 https://revibe.me/
+
+- Product display pages  
+- Reusable UI components  
+- Performance-focused frontend  
+
+---
+
+## 🚔 Police Line Missal  
+
+🔗 https://pline-kv.vercel.app/
+
+- Police line record management UI  
+- Structured forms  
+- Responsive interface  
+
+---
+
+# 💼 Professional Experience
+
+## 👨‍💻 Freelance Full Stack Software Engineer  
+**2025 – Present**
+
+- Developed scalable SaaS platforms and business automation systems  
+- Built full-stack applications using Next.js, React.js, Node.js, Supabase, PostgreSQL, and MongoDB  
+- Designed REST APIs and optimized production systems  
+- Delivered real-world projects including SaaS platforms, law firm websites, e-commerce UI, and business dashboards  
+
+---
+
+## 🧑‍🎓 MERN Stack Intern — Nexus Berry Training & Solutions  
+**Apr 2025 – Jul 2025**
+
+- Developed full-stack web applications using MERN stack  
+- Built backend services using Node.js and Express.js  
+- Designed MongoDB databases and REST APIs  
+
+---
+
+## 🖥️ VB.NET Full Stack Developer  
+**2018 – 2024**
+
+- Developed enterprise-level desktop applications using VB.NET Windows Forms  
+- Built distribution, installment, POS, inventory, and reporting systems  
+- Designed Microsoft SQL Server databases  
+- Created financial reports using SAP Crystal Reports  
+- Implemented staff/user role-based access control  
+
+---
+
+# 🎓 Certifications & Training
+
+![MERN](https://img.shields.io/badge/MERN_Stack-Web_Development-00C853?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**MERN Stack Web Development**  
+Nexus Berry Training & Solutions  
+**Dec 2024 – Mar 2025**
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=mflqp9&theme=vue&hide_border=false&include_all_commits=false&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=mflqp9&theme=vue&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mflqp9&theme=vue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=mflqp9&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+# 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=mflqp9&limit=5&theme=vue&combine_all_yearly_contributions=true)
+
+---
+
+# 👀 Profile Visitors
+
+[![](https://komarev.com/ghpvc/?username=mflqp9&style=for-the-badge&color=0e75b6)](https://github.com/mflqp9)
+
+---
+
+## 🎯 Open For Opportunities
+
+![Full Stack](https://img.shields.io/badge/Full_Stack_Developer-Open_to_Work-brightgreen?style=for-the-badge)
+![React](https://img.shields.io/badge/React.js-Developer-blue?style=for-the-badge&logo=react)
+![Next](https://img.shields.io/badge/Next.js-Developer-black?style=for-the-badge&logo=next.js)
+![Remote](https://img.shields.io/badge/Remote-Available-success?style=for-the-badge)
+
+---
+
+### ⭐ Building software that solves real business problems.
